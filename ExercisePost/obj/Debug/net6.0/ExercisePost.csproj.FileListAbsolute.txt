@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\obj\Debug\net6.0\ExercisePost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\obj\Debug\net6.0\ExercisePost.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\obj\Debug\net6.0\ExercisePost.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\obj\Debug\net6.0\ExercisePost.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\bin\Debug\net6.0\ExercisePost.exe
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\bin\Debug\net6.0\ExercisePost.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\bin\Debug\net6.0\ExercisePost.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\bin\Debug\net6.0\ExercisePost.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\bin\Debug\net6.0\ExercisePost.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\obj\Debug\net6.0\ExercisePost.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\obj\Debug\net6.0\refint\ExercisePost.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\obj\Debug\net6.0\ExercisePost.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\obj\Debug\net6.0\ExercisePost.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExercisePost\ExercisePost\obj\Debug\net6.0\ref\ExercisePost.dll
